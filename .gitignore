@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+# Ignore all files in any directory named temp
+temp/
+# Ignore all files in any directory named myenv 
+myenv/
+# Ignore all .pyc files
+*.pyc
